@@ -1,9 +1,14 @@
-# api documentation for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables)
+# npmdoc-datatables
+
+#### api documentation for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables)
+
 #### DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.
 
-[![NPM](https://nodei.co/npm/datatables.png?downloads=true)](https://www.npmjs.com/package/datatables)
+[![NPM](https://nodei.co/npm/datatables.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/datatables)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-datatables/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-datatables_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-datatables/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-datatables/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-datatables/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-datatables/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-datatables/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-datatables/build/screenCapture.npmPackageListing.svg)
 
@@ -73,13 +78,11 @@
     "main": "media/js/jquery.dataTables",
     "maintainers": [
         {
-            "name": "datatables",
-            "email": "npm@datatables.net"
+            "name": "datatables"
         }
     ],
     "name": "datatables",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/DataTables/DataTables.git"
@@ -89,16 +92,6 @@
     "version": "1.10.13"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module datatables](#apidoc.module.datatables)
-
-
-
-# <a name="apidoc.module.datatables"></a>[module datatables](#apidoc.module.datatables)
 
 
 
