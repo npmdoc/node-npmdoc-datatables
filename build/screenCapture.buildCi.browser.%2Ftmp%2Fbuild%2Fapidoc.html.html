@@ -54,12 +54,48 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.datatables">module datatables</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.datatables.datatables">
+            function <span class="apidocSignatureSpan"></span>datatables
+            <span class="apidocSignatureSpan">(root, $)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.datatables" id="apidoc.module.datatables">module datatables</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.datatables.datatables" id="apidoc.element.datatables.datatables">
+        function <span class="apidocSignatureSpan"></span>datatables
+        <span class="apidocSignatureSpan">(root, $)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">datatables = function (root, $) {
+			if ( ! root ) {
+				// CommonJS environments without a window global must pass a
+				// root. This will give an error otherwise
+				root = window;
+			}
+
+			if ( ! $ ) {
+				$ = typeof window !== 'undefined' ? // jQuery's factory checks for a global window
+					require('jquery') :
+					require('jquery')( root );
+			}
+
+			return factory( $, root, root.document );
+		}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
