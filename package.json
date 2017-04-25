@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "datatables",
-    "description": "#### api documentation for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables)",
+    "description": "#### basic api documentation for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables)",
     "devDependencies": {
         "datatables": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

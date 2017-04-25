@@ -1,6 +1,6 @@
 # npmdoc-datatables
 
-#### api documentation for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables)
+#### basic api documentation for  [datatables (v1.10.13)](http://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables)
 
 #### DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.
 
@@ -89,7 +89,8 @@
     },
     "scripts": {},
     "title": "DataTables",
-    "version": "1.10.13"
+    "version": "1.10.13",
+    "bin": {}
 }
 ```
 
